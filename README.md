@@ -5,7 +5,7 @@
 
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Maitrey1111&theme=radical" height="205px"><img/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maitrey1111&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitrey1111&show_icons=true&theme=radical)
 
 ## Languages and Tools
@@ -18,8 +18,8 @@
 </a>
 
 ## Contact
-<a href=""> 
-<img src = "https://img.shields.io/badge/-Connect-0A66C2?logo=linkedin&logoColor=fff" height="26px"><img/>
+<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208"> 
+<img src = "https://img.shields.io/badge/----0A66C2?logo=linkedin&logoColor=fff" height="26px"><img/>
 </a>
 <!--
 **Maitrey1111/Maitrey1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
