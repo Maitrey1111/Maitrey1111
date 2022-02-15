@@ -2,8 +2,6 @@
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Web Dev 
 
-
-
 <!--
 **Maitrey1111/Maitrey1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
