@@ -1,6 +1,13 @@
 ### Hi there 👋
+
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Web Dev 
+
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maitrey1111&theme=light)
+
 
 <!--
 **Maitrey1111/Maitrey1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
