@@ -12,16 +12,14 @@
 
 
 ## Languages and Tools
-<a href="https://github.com/Maitrey1111/">
-<img src = "https://img.shields.io/badge/-HTML 5-e34f26?logo=html5&logoColor=fff" height="26px"> &nbsp; <img/>
+<img src = "https://img.shields.io/badge/-HTML 5-e34f26?logo=html5&logoColor=fff" height="26px" href="https://github.com/Maitrey1111/"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-CSS 3-1572B6?logo=css3&logoColor=fff" height="26px"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" height="26px"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-React JS-61DAFB?logo=react&logoColor=fff" height="26px"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" height="26px"><img/>
-</a>
 
 ## Contact
-<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208"> 
+<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208" target="_blank"> 
   <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="24px"><img/>
 </a>
 
