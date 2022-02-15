@@ -19,7 +19,7 @@
 <img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" height="26px"><img/>
 
 ## Contact
-<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208" target="_blank_"> 
+<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208"> 
   <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="24px"><img/>
 </a>
 
