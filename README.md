@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maitrey1111&theme=radical)
+https://simpleicons.org/
 
 -->
