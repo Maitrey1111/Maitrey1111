@@ -13,8 +13,8 @@
 <img src = "https://img.shields.io/badge/-CSS 3-1572B6?logo=css3&logoColor=fff" height="26px"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" height="26px"> &nbsp; <img/>
 <img src = "https://img.shields.io/badge/-React JS-61DAFB?logo=react&logoColor=fff" height="26px"> &nbsp; <img/>
-<img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" height="26px"><img/>
-
+<img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" height="26px"><img/><br>
+<img src = "https://img.shields.io/badge/-Flask-FFCA28?logo=flask&logoColor=000" height="28px"><img/>
 
 <!--
 **Maitrey1111/Maitrey1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
