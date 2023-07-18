@@ -5,9 +5,7 @@
 - 👯 I’m looking to collaborate on Web Dev 
 
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maitrey1111&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitrey1111&show_icons=true&theme=radical)
+<!--## Stats-->
 
 
 
@@ -23,6 +21,7 @@
 <a href="https://www.linkedin.com/in/maitrey-bhute-a82173208"> 
   <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="24px"><img/>
 </a>
+
 
 
 <!--
