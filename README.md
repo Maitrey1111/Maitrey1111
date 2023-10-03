@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhutemaitrey2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fsxxB9ZBjzftYXCs2OdsBnTz0yLbiYbt/view?usp=sharing](https://drive.google.com/file/d/1fsxxB9ZBjzftYXCs2OdsBnTz0yLbiYbt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NARXjGAol68tFPsi2OzbIwt-y6WW40Wo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
