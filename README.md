@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **Video Summarization**
+- 🤝 I’m looking for help with **Recommendation Systems**
 
 - 💬 Ask me about **JavaScipt, ReactJS, VueJS, Firebase**
 
 - 📫 How to reach me **bhutemaitrey2020@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NARXjGAol68tFPsi2OzbIwt-y6WW40Wo/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fjuGg5QiPMWCd2ds-uHi9KOGuNcAygIc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
