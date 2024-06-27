@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🎓 I am a B.Tech - Computer Science student at VIT, Vellore
+- 🎓 I am a B.Tech - Computer Science from VIT, Vellore
 
 - 🔭 I’m currently working at [EzInvest](https://ezinvest-web-dev.onrender.com/)
 
