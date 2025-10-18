@@ -5,19 +5,11 @@
 
 - 🎓 I am a B.Tech - Computer Science from VIT, Vellore
 
-- 🔭 I’m currently working at [EzInvest](https://ezinvest-web-dev.onrender.com/)
-
-- 🌱 I’m currently learning **AI/ML**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 🤝 I’m looking for help with **Recommendation Systems**
-
-- 💬 Ask me about **JavaScipt, ReactJS, VueJS, Firebase**
+- 🔭 I’m currently working at [Boomm](https://boomm.in/)
 
 - 📫 How to reach me **bhutemaitrey2020@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fjuGg5QiPMWCd2ds-uHi9KOGuNcAygIc/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fjuGg5QiPMWCd2ds-uHi9KOGuNcAygIc/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitrey1111&show_icons=true&locale=en" alt="maitrey1111" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maitrey1111&show_icons=true&locale=en&layout=compact" alt="maitrey1111" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maitrey1111&" alt="maitrey1111" /></p>
-
-
-
-
