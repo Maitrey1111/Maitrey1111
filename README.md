@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maitrey Bhute</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 - 😄 Pronouns: He/Him
 
-- 🎓 I am a B.Tech - Computer Science from VIT, Vellore
+- 🎓 B.Tech - Computer Science from VIT, Vellore
 
 - 🔭 I’m currently working at [Boomm](https://boomm.in/)
 
